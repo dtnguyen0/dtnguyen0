@@ -23,7 +23,7 @@ I am a Computer Science student at the University of Michigan in the College of 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-0089D6?logo=msazure&logoColor=white)
 
-## 🌐 Socials:
+## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidt-nguyen/)
 [![Website](https://img.shields.io/badge/Website-grey)](https://davidn.netlify.app/)
