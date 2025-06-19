@@ -26,4 +26,4 @@ I am a Computer Science student at the University of Michigan in the College of 
 ## 🌐 Links:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidt-nguyen/)
-[![Website](https://img.shields.io/badge/Website-grey)](https://davidn.netlify.app/)
+[![Website](https://img.shields.io/badge/Website-grey)](https://davidn.dev/)
