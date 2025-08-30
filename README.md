@@ -2,7 +2,7 @@
 
 ## ⚡ About Me:
 
-I am a Computer Science student at the University of Michigan in the College of Engineering and minoring in Mathematics. Feel free to reach out ✉️: davidtn@umich.edu
+I am a Computer Science student at the University of Michigan in the College of Engineering. Feel free to reach out ✉️: davidtn@umich.edu
 
 ## 🖥️ Technologies:
 
